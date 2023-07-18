@@ -11,7 +11,7 @@
 
 
 
-- 🎯 Portfolio website: [Portfolio](https://20a31a05i7.github.io/praveen-portfolio/)
+- 🎯 Portfolio website: [Portfolio](https://20a31a05i7.github.io/potfolio/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/shaik-babji-0aa6b5250/)
 
